@@ -1,0 +1,1 @@
+<view class="{{['data-v-3e095d06','wrap',show?'wrap_move':'']}}"><view class="popup data-v-3e095d06"><slot></slot></view><block wx:if="{{show}}"><view data-event-opts="{{[['tap',[['hide',['$event']]]]]}}" class="mask data-v-3e095d06" bindtap="__e"></view></block></view>

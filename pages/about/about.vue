@@ -1,0 +1,52 @@
+<template>
+	<view class="content">
+		<u-navbar back-text="关于云梦"></u-navbar>
+		<view class="main">
+
+			<view class="image">
+				<u-image width="150rpx" height="150rpx"
+					src="https://ksimagebed.oss-cn-hangzhou.aliyuncs.com/imgbed/2021-11-21-11%3A37%3A19b3fc7646cfcfe4286d7913b7b2639d93.jpg"
+					border-radius="24%"></u-image>
+			</view>
+			<view class="ver">Version 1.0.0</view>
+			<view class="tro">专属江农人的内容兴趣社区</view>
+
+		</view>
+	</view>
+</template>
+
+<script>
+	export default {
+		data() {
+			return {
+
+			};
+		}
+	}
+</script>
+
+<style lang="scss">
+	.content {
+		width: 100vw;
+		height: 100vh;
+
+	}
+
+	.main {
+		flex: 1;
+		overflow: hidden;
+		position: relative;
+		//background-color: pink;
+		padding: 130rpx 0;
+		width: 100vw;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+
+		.ver {
+			font-size: 24rpx;
+			padding: 20rpx 0;
+		}
+		
+	}
+</style>

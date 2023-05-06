@@ -1,0 +1,16 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-navbar": "/node-modules/uview-ui/components/u-navbar/u-navbar",
+    "u-search": "/node-modules/uview-ui/components/u-search/u-search",
+    "u-tabs": "/node-modules/uview-ui/components/u-tabs/u-tabs",
+    "mypopup": "/components/mypopup/mypopup",
+    "u-empty": "/node-modules/uview-ui/components/u-empty/u-empty",
+    "u-top-tips": "/node-modules/uview-ui/components/u-top-tips/u-top-tips",
+    "u-tabbar": "/node-modules/uview-ui/components/u-tabbar/u-tabbar",
+    "scroll-list": "/components/scrolllist/scrolllist",
+    "diary-item": "/components/diaryItem/diaryItem"
+  }
+}

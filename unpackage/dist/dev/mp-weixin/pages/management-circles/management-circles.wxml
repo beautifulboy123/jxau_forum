@@ -1,0 +1,1 @@
+<view class="content"><u-navbar vue-id="f381f7c0-1" back-text="管理我的圈子" bind:__l="__l"></u-navbar><view class="main"><view class="empty"><image src="https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6867bdee-20ed-4501-aaff-ace5f5bc6ea5/9276ada8-9f24-44ef-a05c-f3d1c156790d.jpg" mode></image></view></view></view>

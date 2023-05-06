@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "",
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-navbar": "/node-modules/uview-ui/components/u-navbar/u-navbar",
+    "u-loading": "/node-modules/uview-ui/components/u-loading/u-loading",
+    "safe-footer": "/components/safe-footer/safe-footer"
+  }
+}

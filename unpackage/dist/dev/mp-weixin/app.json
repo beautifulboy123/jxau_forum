@@ -1,0 +1,59 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/circle/circle",
+    "pages/authenticationPage/authenticationPage",
+    "pages/add/add",
+    "pages/message/message",
+    "pages/home/home",
+    "pages/contentdetail/contentdetail",
+    "pages/circledetail/circledetail",
+    "pages/userdetail/userdetail",
+    "pages/searchpage/searchpage",
+    "pages/allcirclepage/allcirclepage",
+    "pages/chatRoom/chatRoom",
+    "pages/chatRoomXSX/chatRoomXSX",
+    "pages/editdata/editdata",
+    "pages/set/set",
+    "pages/disclaimer/disclaimer",
+    "pages/feedback/feedback",
+    "pages/management-circles/management-circles",
+    "pages/user-agreement/user-agreement",
+    "pages/privacy/privacy",
+    "pages/about/about",
+    "pages/u-avater-cropper/u-avatar-cropper",
+    "pages/login/login",
+    "pages/searchResult/searchResult"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#909399",
+    "selectedColor": "#303133",
+    "backgroundColor": "#FFFFFF",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/index/index"
+      },
+      {
+        "pagePath": "pages/circle/circle"
+      },
+      {
+        "pagePath": "pages/add/add"
+      },
+      {
+        "pagePath": "pages/message/message"
+      },
+      {
+        "pagePath": "pages/home/home"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

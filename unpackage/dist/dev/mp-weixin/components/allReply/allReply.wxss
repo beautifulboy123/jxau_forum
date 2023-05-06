@@ -1,0 +1,24 @@
+.reply_Wrap {
+  padding: 30rpx;
+}
+.item {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 30rpx;
+}
+.item .left {
+  width: 90rpx;
+  height: 90rpx;
+}
+.item .right {
+  width: calc(100% - 160rpx);
+}
+.item .right ._span {
+  font-weight: bold;
+}
+.item .like {
+  color: red;
+}
+

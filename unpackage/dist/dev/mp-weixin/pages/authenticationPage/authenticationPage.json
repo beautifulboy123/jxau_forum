@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "学生认证",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "safe-footer": "/components/safe-footer/safe-footer",
+    "u-toast": "/node-modules/uview-ui/components/u-toast/u-toast"
+  }
+}

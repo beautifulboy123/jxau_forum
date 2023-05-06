@@ -1,0 +1,15 @@
+{
+  "navigationBarTitleText": "",
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-navbar": "/node-modules/uview-ui/components/u-navbar/u-navbar",
+    "u-image": "/node-modules/uview-ui/components/u-image/u-image",
+    "u-tabs": "/node-modules/uview-ui/components/u-tabs/u-tabs",
+    "u-popup": "/node-modules/uview-ui/components/u-popup/u-popup",
+    "u-top-tips": "/node-modules/uview-ui/components/u-top-tips/u-top-tips",
+    "safe-footer": "/components/safe-footer/safe-footer",
+    "diary-item": "/components/diaryItem/diaryItem",
+    "member-list": "/components/memberlist/memberlist"
+  }
+}
